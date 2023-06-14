@@ -1,0 +1,35 @@
+.section {
+    background-color: aquamarine;
+}
+
+.input {
+    display: block;
+    width: 25%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.select {
+    display: block;
+    color: red;
+    width: 25%;
+    text-decoration: dotted;
+}
+
+.calcular {
+    height: 50px;
+    width: 25%;
+    background-color: crimson;  
+    color: black;
+    text-decoration: underline dotted;
+}
+
+.calcular:hover {
+    background-color: blueviolet;
+}
+
+h1 {
+    background-color: rosybrown;
+}
